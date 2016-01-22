@@ -1,0 +1,32 @@
+@media screen and (max-width: 950px) {
+    .individual-content img{
+        width: 35%;
+    }
+    
+    .individual-content p{    
+        width: 50%;
+    }
+
+}
+
+@media screen and (max-width: 480px) {
+    .individual-content img{
+        width: 70%;
+        margin-left:15%;
+        margin-right:15%;
+    }
+    
+    .individual-content p{
+        width: 70%;
+        margin-left:15%;
+        margin-right:15%;
+    }
+    
+     .header{
+        height: 300px;
+    }
+    .header li {
+        font-size: 20px;
+    }
+
+}

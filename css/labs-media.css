@@ -1,0 +1,36 @@
+@media screen and (max-width: 600px) {
+    #enter{
+        width: 40%;
+    }
+    
+}
+
+@media screen and (max-width: 450px) {
+    #enter{
+        width: 40%;
+    }
+    
+    .header{
+        height: 300px;
+    }
+    .header li {
+        font-size: 20px;
+    }
+    
+    .progress{
+        height: 50px;    
+    }
+    
+    #progress-status-lab-1{
+        height: 50px;   
+    }
+    
+    #progress-status-lab-2{
+        height: 50px;   
+    }
+    
+    #progress-status-lab-3{
+        height: 50px;   
+    }
+    
+}

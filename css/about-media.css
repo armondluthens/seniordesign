@@ -1,0 +1,17 @@
+@media screen and (max-width: 600px) {
+    #enter{
+        width: 50%;
+        margin-left:25%;
+    }
+    
+}
+
+@media screen and (max-width: 450px) {
+    
+    .header{
+        height: 300px;
+    }
+    .header li {
+        font-size: 20px;
+    }
+}
